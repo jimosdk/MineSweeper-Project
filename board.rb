@@ -1,4 +1,3 @@
-require 'byebug'
 require './tiles.rb'
 
 class Board
